@@ -3,11 +3,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Next Cast 😋
 
 A next.js starter template. 🧧<br>
+
 <p><i> next | react | react-dom | prettier | eslint </i></p>
 
-
 **Automatic formatting and linting before every-commit** 🤹‍♂️
-
 
 ## Getting Started
 
@@ -36,7 +35,6 @@ Linting code: ⚙
 ```bash
 npm run lint
 ```
-
 
 [API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
