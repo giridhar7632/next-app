@@ -2,11 +2,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Next Cast 😋
 
-A next.js starter template. 🧧
+A next.js starter template. 🧧<br>
+<p><i> next | react | react-dom | prettier | eslint </i></p>
+
 
 **Automatic formatting and linting before every-commit** 🤹‍♂️
 
-<p><i> next | react | react-dom | prettier | eslint </i></p>
 
 ## Getting Started
 
