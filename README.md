@@ -8,33 +8,15 @@ A next.js starter template. 🧧<br>
 
 **Automatic formatting and linting before every-commit** 🤹‍♂️
 
-## Getting Started
+## Usage
 
-First, run the development server: 👨‍💻
-
-```bash
-npm run dev
-# or
-yarn dev
-```
+1) Download it ⬇, `git clone` into coding environment of your choice 😃, or use the `import from Github` on repl.it (or codesandbox, Glitch, etc). 
+1) Install dependencies: 🔽 `npm install`.
+1) Run the development server: 👨‍💻 `npm run dev`.
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-Formatting code: ✨
-
-```bash
-npm run format
-```
-
-You'll see your code formatted ✨🤩
-
-Linting code: ⚙
-
-```bash
-npm run lint
-```
 
 [API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
