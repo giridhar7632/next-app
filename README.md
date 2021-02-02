@@ -10,9 +10,9 @@ A next.js starter template. 🧧<br>
 
 ## Getting started 🚀
 
-1) Download it ⬇, `git clone` into coding environment of your choice 😃, or use the `import from Github` on repl.it (or codesandbox, Glitch, etc). 
-1) Install dependencies: 🔽 `npm install`.
-1) Run the development server: 👨‍💻 `npm run dev`.
+1. Download it ⬇, `git clone` into coding environment of your choice 😃, or use the `import from Github` on repl.it (or codesandbox, Glitch, etc).
+1. Install dependencies: 🔽 `npm install`.
+1. Run the development server: 👨‍💻 `npm run dev`.
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 

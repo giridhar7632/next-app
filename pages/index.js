@@ -14,7 +14,7 @@ export default function Home() {
 					Hello <span>World!</span> 👋
 				</h1>
 				<div className={styles.description}>
-					<p>This is a starter Next.js template.</p>
+					<p>This is a starter Next.js template. ✨</p>
 					<a href="https://github.com/giridhar7632/next-app">
 						<button className={styles.btn}>GitHub</button>
 					</a>
